@@ -1,0 +1,77 @@
+*{
+text-align: center;
+padding: 0;
+margin:0 ;
+word-break: normal;
+}
+
+header{
+    text-align: center;
+    background-color: #006307;
+}
+.simbolo{
+    width: 80px;
+    height: 60px;
+}
+.lupa{
+    height: 23;
+    width: 23;
+
+
+}
+h1{
+    color: white;
+}
+
+p{
+
+    background-color: #D9D9D9;
+border-radius: 6px;
+width: 154;
+height: 77;
+padding: 20px;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+ gap: 20px;
+}
+li{
+    list-style-type: none;
+    padding: 15px;
+}
+
+.Dica{
+    width: 30;
+    height: 24;
+}
+.Conselhos{
+    background-color: #006307;
+}
+.Contato{
+    width: 15;
+    height: 15;
+}
+
+.final{
+    background-color: #006307;
+    display: flex;
+    gap: 10px;
+margin-top: auto;
+ 
+}
+h3{
+    color: white;
+}
+.sobre{
+    width: 15;
+    height: 15;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.seta{
+    width: 20px;
+    height: 20px;
+}
